@@ -2,7 +2,9 @@
 
 一個為 Albion Online 公會設計的 Discord Bot 用來管理公會財務和出團loot結算.
 此機器人模仿公會 "Journey Uncharted" 的分錢仔進行製作.
-只花費約 3h 製作, 如有不適當或bug或更多需求製作請聯繫 discord: ashaintyou.
+只花費約 3h 製作, 如有不適當或bug或更多需求製作請聯繫 discord: ashaintyou 
+如有bug請開issue反應
+如有不適當或更多需求製作請聯繫discord: ashaintyou
 
 ### 環境需求
 
